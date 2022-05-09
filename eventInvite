@@ -29,6 +29,24 @@
                     margin-left: 16px;
                     margin-top: 16px;
             }
+            #rsvp-button {
+                background-color: rgb(178, 255, 89);
+                padding: 8px;
+                position: auto;
+                border-radius: 16px;
+                width: 200px;
+                margin: auto;
+                box-shadow: 5px 10px;
+            
+            }
+            
+            #button-text {
+                text-align:center ;
+                font-weight:bold;
+                font-size:24px;
+                margin:8px;
+            }
+            
             
         </style>
     </head>
@@ -74,6 +92,11 @@
             <li>set a course for integrating the lessons
             </li>
         </ol>
+        
+        <div id="rsvp-button">
+            <p id="button-text"> I'm attending! </p>
+            
+        </div>
         
     </body>
 </html>
