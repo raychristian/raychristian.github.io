@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body {
+                background-color: rgb(250, 230, 250);
+            }
+            #header {
+                background-color: rgb(250, 250, 250);
+                padding:16px;
+            }
+            
+            #logo {
+                width: 80px;
+                float: left;
+                padding-right: 32px;
+                padding-left: 16px;
+                position: relative;
+                margin-top: -20px;
+                
+            }
+            
+            #guest-list {
+                    float:right;
+                    background-color: rgb(178, 238, 255);
+                    padding: 16px;
+                    margin-left: 16px;
+                    margin-top: 16px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div id="header">
+        <img id="logo"src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/GemGreen.png">
+        
+        <h1>You're invited to the Psoirée!</h1>
+        
+        <h2>Safe solo psychedelic travel</h2>
+        
+        
+        </div>
+        
+        <div id="guest-list">
+            <h3> Explorer list </h3>
+            <ul> <li> Bobby Bold </li> 
+                 <li>       Jenny Journey</li>
+            <li>Ray Rodman </li>
+            <li>Lisa Lively </li>
+            <li>Brendan Banter </li>
+            <li>Bobby Bold </li>
+            
+            </ul>
+        </div>
+        
+        <h3>The LIFTOFF call:</h3>
+        <ol>
+            <li>set intentions
+            </li>
+            <li>vocalize concerns
+            </li>
+            <li>get into a good mood
+            </li>
+        </ol>
+        
+        <h3> The LANDING call:</h3>
+        <ol>
+            <li>unpack the journey
+            </li>
+            <li>explore the meaning and impact
+            </li>
+            <li>set a course for integrating the lessons
+            </li>
+        </ol>
+        
+    </body>
+</html>
